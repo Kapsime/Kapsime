@@ -7,7 +7,7 @@ Fork on GitHub3094
 
 - 🌱 I’m currently learning **cloud(azure)**
 
-- 💬 Ask me about **DSA , Web Development , Data engineering**
+- 💬 Ask me about **DSA ,SQL, JAVA , Python, Web Development , Data engineering**
 
 - 📫 How to reach me **sagar.kapsime@gmail.com**
 
