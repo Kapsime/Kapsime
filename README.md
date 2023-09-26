@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sagar Kumar</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **AWS , Spark**
 
-- 💬 Ask me about **DSA , Web Development , Data engineering**
+- 💬 Ask me about **DSA , Data engineering**
 
 - 📫 How to reach me **sagar.kapsime@gmail.com**
 
