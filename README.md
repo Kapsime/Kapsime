@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spark , AWS**
 
-- 💬 Ask me about **DSA , Data engineering**
+- 💬 Ask me about **Data engineering**
 
 - 📫 How to reach me **sagar.kapsime@gmail.com**
 
